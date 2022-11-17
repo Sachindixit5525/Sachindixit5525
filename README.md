@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sachin dixit
 - 👀 I’m interested in Web developing
+- 👀 I’m interested in Android developing
 - 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
